@@ -1,0 +1,7 @@
+echo "# LULions" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BE-Hackathon-2025/LULions.git
+git push -u origin main
